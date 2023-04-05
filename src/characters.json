@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Harry Potter",
+    "house": "Gryffindor",
+    "bestAbility": "Defeating Voldemort"
+  },
+  {
+    "name": "Hermione Granger",
+    "house": "Gryffindor",
+    "bestAbility": "Intelligence"
+  },
+  { "name": "Ron Weasley", "house": "Gryffindor", "bestAbility": "Loyalty" },
+  {
+    "name": "Draco Malfoy",
+    "house": "Slytherin",
+    "bestAbility": "Manipulation"
+  },
+  {
+    "name": "Albus Dumbledore",
+    "house": "Gryffindor",
+    "bestAbility": "Wisdom"
+  },
+  { "name": "Severus Snape", "house": "Slytherin", "bestAbility": "Potions" },
+  {
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw",
+    "bestAbility": "Quirky perspective"
+  },
+  {
+    "name": "Neville Longbottom",
+    "house": "Gryffindor",
+    "bestAbility": "Bravery"
+  },
+  { "name": "Rubeus Hagrid", "house": "Gryffindor", "bestAbility": "Loyalty" },
+  {
+    "name": "Minerva McGonagall",
+    "house": "Gryffindor",
+    "bestAbility": "Transfiguration"
+  },
+  {
+    "name": "Remus Lupin",
+    "house": "Gryffindor",
+    "bestAbility": "Defense Against the Dark Arts"
+  },
+  {
+    "name": "Bellatrix Lestrange",
+    "house": "Slytherin",
+    "bestAbility": "Dark Magic"
+  },
+  { "name": "Voldemort", "house": "Slytherin", "bestAbility": "Dark Magic" },
+  { "name": "Dumbledore", "house": "Gryffindor", "bestAbility": "Wisdom" },
+  {
+    "name": "Sirius Black",
+    "house": "Gryffindor",
+    "bestAbility": "Defense Against the Dark Arts"
+  },
+  { "name": "Fred Weasley", "house": "Gryffindor", "bestAbility": "Pranks" },
+  { "name": "George Weasley", "house": "Gryffindor", "bestAbility": "Pranks" },
+  {
+    "name": "Ginny Weasley",
+    "house": "Gryffindor",
+    "bestAbility": "Quidditch"
+  },
+  { "name": "Cho Chang", "house": "Ravenclaw", "bestAbility": "Quidditch" }
+]
